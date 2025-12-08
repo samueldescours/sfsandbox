@@ -32,6 +32,9 @@ A debug profile might come in the future, it's not done yet
 ---
 
 # Gameplay and screenshots
-No gameplay is currently aviable, the sand is already placed in the world when you launch the programm and you cannt interact with it, however this will change soon
-
-
+Select a sand type using the numbers on the keyboard:
+1. sand
+2. water
+3. wall
+Click and drag to add the sand
+Any other number will erase
