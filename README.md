@@ -36,5 +36,7 @@ Select a sand type using the numbers on the keyboard:
 1. sand
 2. water
 3. wall
+
 Click and drag to add the sand
+
 Any other number will erase
